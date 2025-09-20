@@ -227,8 +227,8 @@
     <string name="pref_send_logfile">Enviar registro al desarrollador</string>
     <string name="pref_send_logfile_sum">Envíe el archivo de registro al desarrollador para que lo ayude a mejorar el programa. Solo se envía información de estado de TVHClient!</string>
     <string name="pref_server_url">URL de conexión</string>
-    <string name="pref_server_url_hint">Ejemplo: http://myserver:9982</string>
-    <string name="pref_server_url_sum">Ingrese la url con el nombre de host y el puerto para conectarse al servidor. Esta es la misma URL utilizada para conectarse a la interfaz web del servidor. Ejemplo: http://myserver:9982</string>
+    <string name="pref_server_url_hint">Ejemplo: http://myserver:9981</string>
+    <string name="pref_server_url_sum">Ingrese la url con el nombre de host y el puerto para conectarse al servidor. Esta es la misma URL utilizada para conectarse a la interfaz web del servidor. Ejemplo: http://myserver:9981</string>
     <string name="pref_show_cast_minicontroller">Controles de emisión</string>
     <string name="pref_show_cast_minicontroller_sum">Mostrar un minicontrolador de lanzamiento en la parte inferior de la pantalla para mostrar información sobre la emisión actual.</string>
     <string name="pref_show_channel_name">Mostrar nombre del canal</string>
@@ -253,8 +253,8 @@
     <string name="pref_sort_channels">Orden de canales</string>
     <string name="pref_sort_channels_sum">Elija en qué orden se mostrarán los canales.</string>
     <string name="pref_streaming_url">URL de reproducción</string>
-    <string name="pref_streaming_url_hint">Ejemplo: http://myserver:9981</string>
-    <string name="pref_streaming_url_sum">Ingrese la url con el nombre de host y el puerto para transmitir videos desde el servidor. Solo se requiere si se usa un reproductor externo. Ejemplo: http://myserver:9981</string>
+    <string name="pref_streaming_url_hint">Ejemplo: http://myserver:9982</string>
+    <string name="pref_streaming_url_sum">Ingrese la url con el nombre de host y el puerto para transmitir videos desde el servidor. Solo se requiere si se usa un reproductor externo. Ejemplo: http://myserver:9982</string>
     <string name="pref_tag_icon">Icono de etiqueta de canal</string>
     <string name="pref_tag_icon_sum">Mostrar el icono de una etiqueta de canal.</string>
     <string name="pref_theme">Tema Luz</string>
